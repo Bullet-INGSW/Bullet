@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javafx11" level="application" />
+    <orderEntry type="library" name="mariadb-java-client-2.5.3-sources" level="project" />
+    <orderEntry type="library" name="netty-all-4.1.45.Final" level="project" />
   </component>
 </module>
